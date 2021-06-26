@@ -21,3 +21,23 @@ textFieldShouldbeginEditing
 textFieldDidEndEditing
 textFieldShouldEndEditing
 ```
+
+# Swift protocols
+
+```
+protocol config(){
+  canFly()
+}
+
+class A:config{ func canFly(){} }
+
+class B:A,config{  override func canFly(){}  }
+
+struct C:canFly{}
+```
+
+# Delegate design pattern
+
+```
+
+```
