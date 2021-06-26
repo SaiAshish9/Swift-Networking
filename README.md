@@ -182,4 +182,11 @@ extension Double{
   return n
   }
 }
+
+
+extension WeatherViewController: WeatherManagerDelegate
+extension WeatherViewController: CLLocationManagerDelegate
+
+OR class WeatherViewController: UIViewController, WeatherManagerDelegate,CLLocationManagerDelegate
+
 ```
