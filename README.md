@@ -80,3 +80,16 @@ class Surgeon:Doctor {
 }
 
 ```
+```
+EmergencyCallHandler doesn' care about what delegate is associated with . It can be class , struct or subclass.
+```
+
+```
+UTF-8 is the standardized protocol to encode text
+```
+
+# Closures
+
+```
+
+```
