@@ -91,5 +91,15 @@ UTF-8 is the standardized protocol to encode text
 # Closures
 
 ```
+import UIKit
+
+func calculator(n1:Int,n2:Int)->Int{
+  return n1 * n2
+}
+
+calculator(n1:2,n2:3)
+
+=>
+
 
 ```
