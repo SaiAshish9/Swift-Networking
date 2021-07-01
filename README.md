@@ -1,3 +1,9 @@
+# Useful third party dependency
+
+```
+Alamofire (can be installed using cocoapods or swiftUIPackages)
+```
+
 # High Quality Images
 
 ```
